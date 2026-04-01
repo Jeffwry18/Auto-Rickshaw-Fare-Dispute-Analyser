@@ -62,7 +62,8 @@ This project demonstrates the practical application of NLP and machine learning 
 * *Streamlit Documentation*
 * *Do Phuc & Nguyen Thi Kim Phung (2007). Using Naïve Bayes Model and NLP for Classifying Messages on Online Forum. IEEE*
 
-
+**Click the below link to open the app**
+<autorickshawfaredisputer.streamlit.app>
 
 
 
