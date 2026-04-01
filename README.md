@@ -1,5 +1,5 @@
  **Overview**
-This project applies Natural Language Processing (NLP) and the Naïve Bayes model to classify auto rickshaw fare complaints into three categories:
+This project applies Natural Language Processing (NLP) and the Naive Bayes model to classify auto rickshaw fare complaints into three categories:
 * Overcharge
 * Meter Issue
 * Route Dispute
@@ -14,7 +14,7 @@ This project applies Natural Language Processing (NLP) and the Naïve Bayes mode
 
 **Tech Stack**
 * Python 3.9+
-* Scikit‑learn (Naïve Bayes, CountVectorizer)
+* Scikit‑learn (Naive Bayes, CountVectorizer)
 * Pandas (data handling)
 * Joblib (model persistence)
 * Streamlit (web app framework)
