@@ -66,5 +66,11 @@ This project demonstrates the practical application of NLP and machine learning 
 [autorickshawfaredisputer.streamlit.app](https://autorickshawfaredisputer.streamlit.app
 )
 
+## Citation and Acknowledgements
+
+This project uses Scikit-learn (Pedregosa et al., 2011), Streamlit (Streamlit Inc., 2020), and joblib (Joblib Development Team, 2020).  
+If you use this work, please cite:
+
+J. Jeffrey et al., "Automated Classification of Auto-Rickshaw Fare Disputes," 2026. Code and dataset: https://github.com/Jeffwry18/Auto-Rickshaw-Fare-Dispute-Analyser (Accessed: 24-Jul-2026).
 
 
